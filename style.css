@@ -1,9 +1,8 @@
-<html>
-<head>
-<style>
 body {
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: lightpurple;
 }
-</style>
-</head>
-<body>
+
+h1 {
+  color: pink;
+  margin-left: 20px;
+}
